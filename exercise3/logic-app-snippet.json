@@ -1,4 +1,0 @@
-"description": "@body('Describe_Image_URL')?['description']",
-"id": "@{guid()}",
-"time": "@{utcNow()}",
-"url": "@{items('For_each')}"
