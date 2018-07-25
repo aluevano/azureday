@@ -1,4 +1,4 @@
-# Primary Links
+# Azure In A Day
 
 This is the main slide deck presented during the Azure In A Day session
 #### [Azure In A Day - Main Slide Deck](https://1drv.ms/b/s!AhEX99ErZbKGg2uNDzXaHTpL0125)
