@@ -1,7 +1,7 @@
 # Azure In A Day
 
-This is the main slide deck presented during the Azure In A Day session
-#### [Azure In A Day - Main Slide Deck](https://1drv.ms/b/s!AhEX99ErZbKGg2uNDzXaHTpL0125)
+This is the main slide deck presented during the Azure In A Day session  
+<a href="https://1drv.ms/b/s!AhEX99ErZbKGg2uNDzXaHTpL0125)" class="btn-blue" target="_blank">Azure In A Day - Main Slide Deck</a>
 
 These are links to the main Azure site and documentaion
 #### [Azure.com Site](https://azure.microsoft.com)
