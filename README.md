@@ -23,7 +23,10 @@ This is the main slide deck presented during the Azure In A Day session
 
 ## Links You Will Need
 
-Activate the Azure Pass code you have been given using this step by step guide  
+Activate the Azure Pass code you have been given using this step by step guide.  
+
+>**Note.** The guide is provided as a PDF, and you will need to close your browser during the process. It is worth making a note of the URL to come back here, which is **[aka.ms/azure-day](http://aka.ms/azure-day)** or bookmark this page as, **you will need to return to this page for the rest of the exercise steps**
+
 <a href="azurepass-guide.pdf" class="btn-blue" target="_blank">Activate an Azure Pass</a> 
 
 When you have activated your Azure subscription, access the portal at portal<span></span>.azure.com  
