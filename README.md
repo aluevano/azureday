@@ -11,7 +11,7 @@ This is the main slide deck presented during the Azure In A Day session:
 
 # Hands On Exercises
 These can be accessed via the button at the top of the page or here:  
-<a href="https://1drv.ms/b/s!AhEX99ErZbKGg2uNDzXaHTpL0125" class="btn-blue" target="_blank">Azure In A Day - Exercises</a>
+<a href="exercises" class="btn-blue" target="_blank">Azure In A Day - Exercises</a>
 
 
 # Azure Link Library
