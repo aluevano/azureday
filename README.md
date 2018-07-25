@@ -3,10 +3,6 @@
 This is the main slide deck presented during the Azure In A Day session  
 <a href="https://1drv.ms/b/s!AhEX99ErZbKGg2uNDzXaHTpL0125" class="btn-blue" target="_blank">Azure In A Day - Main Slide Deck</a>
 
-These are links to the main Azure site and documentaion
-#### [Azure.com Site](https://azure.microsoft.com)
-#### [Azure Documentation](https://docs.microsoft.com/en-us/azure/)
-
 # Hands On 1 - Getting Started With Azure
 
 ## Overview
@@ -18,6 +14,12 @@ These are links to the main Azure site and documentaion
 - Explore the Azure Marketplace
 
 ## Links You Will Need
-#### [Activate an Azure Pass](https://aka.ms/azurepass)
-#### [Create a Microsoft Account](https://signup.live.com/)
-#### [Azure Portal](https://portal.azure.com)
+
+Activate the Azure Pass code you have been given here:  
+<a href="https://aka.ms/azurepass" class="btn-blue" target="_blank">Activate an Azure Pass</a> 
+
+If you do not have a Microsoft account (e.g. Skype, Outlook<span></span>.com, Hotmail, OneDrive or Xbox LIVE), create one here:  
+<a href="https://signup.live.com/" class="btn-blue" target="_blank">Create a Microsoft Account</a>  
+
+When you have activated your Azure subscription, access the portal at portal<span></span>.azure.com  
+<a href="https://portal.azure.com" class="btn-blue" target="_blank">Azure Portal</a>
