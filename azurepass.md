@@ -8,15 +8,15 @@ If you follow these instructions **TO THE LETTER WITH NO STEPS SKIPPED OR ALTERN
 ## Part 1
 1.	Close down all web browsers
 1.	Start your browser and open a single private/incognito window. Make sure you only have a single private browser window open
-1.	Go to http://account.live.com. If it shows you are logged in, click the sign-out button, close the browser down and start up another private/incognito browser window
-1.	Go to http://outlook.com and create a new account
+1.	Go to [**http://account.live.com**](http://account.live.com). If it shows you are logged in, click the sign-out button, close the browser down and start up another private/incognito browser window
+1.	Go to [**http://outlook.com**](http://outlook.com) and create a new account
 1.	Go through the sign-up process and remember your username and password
 1.	Use the sign-out button in the top right corner to log out
 1.	Shut down all your browser windows
 
 ## Part 2
 1.  Again open a single browser in private/incognito mode
-1.  Go to http://microsoftazurepass.com
+1.  Go to [**http://microsoftazurepass.com**](http://microsoftazurepass.com)
 1.	Click sign in and sign in with the Outlook account you just created
 1.	Next you need to click 'Confirm Microsoft Account' 
 1.	You will then be asked to enter a promo code. In this box please enter the promo code you have been given.
