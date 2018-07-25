@@ -1,7 +1,7 @@
 # Azure In A Day
 
 This is the main slide deck presented during the Azure In A Day session:  
-<a href="https://1drv.ms/b/s!AhEX99ErZbKGg2uNDzXaHTpL0125" class="btn-blue" target="_blank">Azure In A Day - Main Slide Deck</a>
+<a href="slides.pdf" class="btn-blue" target="_blank">Azure In A Day - Main Slide Deck</a>
 
 # Prerequisites For Hands On Exercises
 - An Azure Pass code
